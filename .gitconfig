@@ -1,0 +1,5 @@
+# This is Git's per-user configuration file.
+
+# Set 'user' and 'email' on specific folder
+[includeIf "gitdir:~/Code/com/"]
+  path = ~/Code/com/.gitconfig
