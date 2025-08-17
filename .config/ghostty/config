@@ -1,0 +1,5 @@
+font-family = Iosevka Term Light
+font-size = 16
+quit-after-last-window-closed = true
+background-opacity = 0.85
+background-blur-radius = 10
